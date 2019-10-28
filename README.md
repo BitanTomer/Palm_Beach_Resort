@@ -1,3 +1,12 @@
+## Palm Beach&Resort React
+![logo](https://user-images.githubusercontent.com/49564370/67667810-5b517400-f977-11e9-8d61-c8f598ccae24.png)
+
+## Description:
+building a beach resort website project. The project uses React router for routing, React context API for state management, and Netlify to host the application.
+
+## Watch the app on netlify:
+https://react-palm-beach-resort.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
